@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshitha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src='figure/profile.png' width='50' float:right>
+<img src='profile.png' width='50' float:right>
 
 - 🌱 I’m currently learning **React.js**
 
