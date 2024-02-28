@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Harshitha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src='profile.png' width='250' align="right">
+
+<h2 align="left">Hi 👋, I'm Harshitha</h1>
+<img src='profile.png' width='200' align="right">
+<h3 align="left">A passionate frontend developer from India</h3>
+
 
 - 🌱 I’m currently learning **React.js**
 
