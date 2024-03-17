@@ -1,6 +1,6 @@
-<img src='haash.png'>
+<h3 align = "right">Hi👋, I'm Harshitha </h3>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Front End React Developer from India</h3>
 
 ### Skills
 
